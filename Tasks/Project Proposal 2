@@ -1,0 +1,8 @@
+Task: Construct a pipeline to improve a system of norms. 
+
+Ethics is very much about trying things out and then adjust them on the way. 
+Legal codes also evolve and might be revised at times.
+Construct a pipeline that does it automatically, test it, and present your findings. 
+
+Use the LogiKey methodology to setup your experiments.
+You may use LLM-agents to generate norms, automatic theorem provers to test them, and this dataset or others to find cases.  

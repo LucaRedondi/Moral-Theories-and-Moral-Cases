@@ -1,0 +1,26 @@
+*Project*
+
+Use the LogiKey methodology to construct and arugment. 
+
+
+Your argument may support some claim about ethics: which system of norms is better, which moral theory is right, 
+or you can focus on one precise scenario and claim what we should do in such circumstance. 
+e.g.: Claim1: Strict Kantian ethics systematically produce counter-intuitive results. 
+ 
+Alternatively, your argument may support a claim about logics: which deontic logic is better for ethical/legal reasoning, 
+what are the strengths/weakenesses of each approach, which one interacts better with LLMs, what formal tool we need that is 
+missing in the toolbox you were given. 
+e.g., Claim2: Preference-based DL are better than IO-logics for formalizing utilitarianistic accounts of moral duty. 
+
+Finally, your argument may concern LLMs: How good are they at identifying/generating norms? 
+How can we improve their performances. 
+e.g., Claim3: LLMs tend to be utilitarians rather than Kantians. 
+
+Whatever the claim, you must use formal methods to provide evidence in favor of it. 
+e.g. Experimental pipeline for Claim1. 
+1. Construct formalization for Kantian ethics and Utilitarianism (manutally? Automatically?). 
+2. Check the formalization (with LLMs? With experts?)
+3. Obtain a big enough set of cases (made them up? Generate them with LLMs? Find in datasets?)
+4. Identify desiderata for the cases (how?). 
+5. Apply the theories (using an automatic theorem-prover? With pen and paper?).
+6. Compare the results (if Kantian ethics is consistently outperformed, then you have your argument!). 
